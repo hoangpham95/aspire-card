@@ -25,7 +25,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.hoangpham95.aspirecard"
     },
     "web": {
       "favicon": "./assets/favicon.png"
